@@ -15,7 +15,7 @@ Aplicația permite utilizatorilor să încarce suporturi de curs, din care siste
 * 🗄️ Stocarea datelor (utilizatori, documente, flashcards, statistici) într-o bază de date relațională
 
 ### 💻 Limbajul de programare ales
-**Python (FastAPI)** + **HTMX / React** + **SQLite / PostgreSQL**
+**Python (FastAPI)** + **React** + **SQLite**
 
 ---
 
